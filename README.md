@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Rskri2&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
