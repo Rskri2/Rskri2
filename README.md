@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rskri2&show_icons=true&locale=en&layout=compact" alt="Rskri2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rskri2&show_icons=true&locale=en" alt="Rski2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rskri2&" alt="Rskri2" /></p>
